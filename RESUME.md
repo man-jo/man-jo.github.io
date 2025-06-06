@@ -1,7 +1,7 @@
 ---
 about:
   template: marquee
-  image-width	: 10em
+  image-width	: 20em
   image: photo_marseille2.jpg
   links:
     - icon: linkedin
@@ -14,6 +14,8 @@ about:
 
 # Jonas Mandel
 #### Senior Bioinformatics Scientist
+| [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
+| [linkedin.com/in/jonasmandel](https://www2.linkedin.com/in/jonasmandel/)
 
 ## About me
 * 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
