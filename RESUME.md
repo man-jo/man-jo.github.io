@@ -1,7 +1,7 @@
 ---
 title: "Jonas Mandel"
 about:
-  template: jolla
+  template: trestles
   image: photo_marseille2.jpg
   links:
     - icon: linkedin
@@ -12,8 +12,7 @@ about:
       href: mailto:jonas.mandel@gmail.com
 ---
 
-# Jonas Mandel
-Senior Bioinformatics Scientist
+#### Senior Bioinformatics Scientist
 
 ## About me
 * 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
