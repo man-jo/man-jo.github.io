@@ -5,8 +5,6 @@
 
 # Jonas Mandel
 
-[![Location](https://img.shields.io/badge/Location-Paris,%20France-blue?logo=homeadvisor&logoColor=white)](https://goo.gl/maps/6TzjX6dN6p72)
-
 ---
 
 ## ![About Me](https://img.shields.io/badge/-About%20Me-informational?style=flat-square&logo=about-dot-me&logoColor=white)
