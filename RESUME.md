@@ -1,16 +1,3 @@
----
-title: "Jonas Mandel"
-about:
-  template: jolla
-  image: photo_marseille2.jpg
-  links:
-    - icon: linkedin
-      text: linkedin
-      href: https://www.linkedin.com/in/jonasmandel/
-    - icon: envelope-at
-      text: email
-      href: mailto:jonas.mandel@gmail.com
----
 
 # Jonas Mandel
 
