@@ -1,6 +1,7 @@
 ---
 title: "Jonas Mandel"
 about:
+  template: jolla
   image: photo_marseille2.jpg
   links:
     - icon: linkedin
