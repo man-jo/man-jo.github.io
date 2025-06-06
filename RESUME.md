@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="photo_marseille2.jpg" alt="Banner Photo" style="width:100%; max-width:200px; border-radius:10px;">
+  <img src="photo_marseille2.jpg" alt="Banner Photo" style="max-height:200px;">
 </div>
 
 # Jonas Mandel
