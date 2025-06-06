@@ -7,12 +7,14 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/jonasmandel/
+    - icon: envelope-at
+      text: email
+      href: mailto:jonas.mandel@gmail.com
 ---
 
 # Jonas Mandel
 Senior Bioinformatics Scientist
 | [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
-| [linkedin.com/in/jonasmandel](https://www2.linkedin.com/in/jonasmandel/)
 
 ## About me
 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
