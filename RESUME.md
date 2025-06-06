@@ -1,5 +1,4 @@
 ---
-title: "Jonas Mandel"
 about:
   template: trestles
   image: photo_marseille2.jpg
@@ -12,6 +11,7 @@ about:
       href: mailto:jonas.mandel@gmail.com
 ---
 
+# Jonas Mandel
 #### Senior Bioinformatics Scientist
 
 ## About me
