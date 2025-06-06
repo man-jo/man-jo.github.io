@@ -1,7 +1,6 @@
 ---
 title: "Jonas Mandel"
 about:
-  template: solana
   image: photo_marseille2.jpg
   links:
     - icon: linkedin
