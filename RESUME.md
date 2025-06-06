@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="photo_marseille2.jpg" alt="Banner Photo" style="width:100%; max-width:200px; border-radius:10px;">
+</div>
+
 # Jonas Mandel
 
 [![Location](https://img.shields.io/badge/Location-Paris,%20France-blue?logo=homeadvisor&logoColor=white)](https://goo.gl/maps/6TzjX6dN6p72)
