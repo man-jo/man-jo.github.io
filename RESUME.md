@@ -1,3 +1,13 @@
+---
+title: "Jonas Mandel"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/jonasmandel/
+---
+
 # Jonas Mandel
 Senior Bioinformatics Scientist
 | [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
