@@ -13,35 +13,35 @@ Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
 
 ## Work Experience
 
-### Senior Bioinformatics Scientist - Mnemo Therapeutics, Paris
-*2021 - 2025*
+### Senior Bioinformatics Scientist - Mnemo Therapeutics
+*2021 - 2025, Paris*
 - Developed pipelines for detecting alternative splicing and cancer neoantigen prediction using RNAseq, scRNAseq, and long-read RNAseq (PacBio).
 - Led statistical analyses of neoantigen recurrence and peptide prioritization for vaccine and CAR-T development.
 - Integrated transcriptomics and immunopeptidomics data to generate target libraries; implemented automated reporting.
 - Developed long-read RNAseq pipeline for alternative splicing discovery & quantification based on IsoSeq3 & SQANTI.
 - Coordinated cross-team efforts as work package lead for immunopeptidomics target mining; prepared scientific deliverables and presentations.
 
-### Biomarker Biostatistician - Sanofi / Ividata, Paris
-*2018 - 2021*
+### Biomarker Biostatistician - Sanofi / Ividata
+*2018 - 2021, Paris*
 - Led biomarker analyses in phase 2/3 trials (Sarilumab, Dupilumab, SAR440340) using RNAseq, SNP microarray, and proteomics (olink): statistical analysis plan authoring & implementation with R, oversight of CROs, preparation of deliverables.
 - Served as biomarker biostatistician and machine learning advisor in several R&D projects in oncology, cardiology, multiple sclerosis.
 - Developed a shiny app for interactive reporting of omics biomarker data analysis.
 - Participated in the development of R trainings “Introduction to R” and “Graphs in R” for Sanofi statisticians & programmers.
 
-### Clinical Biostatistician - Sanofi / Ividata, Paris
-*2016 - 2018*
+### Clinical Biostatistician - Sanofi / Ividata
+*2016 - 2018, Paris*
 - GMA Study biostatistician for phase 3b clinical trial (Alirocumab, hypercholesterolemia): authoring SAP and TLFs specs, coordination with CRO & clinical team to prepare of deliverables (KRM, CSR), supervision & QC of CRO’s activities.
 - Biostatistician for the Alirocumab publication program: performed data mining and post-hoc analyses across 14 pooled clinical trials to support the development of abstracts, posters, and peer-reviewed publications.
 
-### Biostatistician & Computational Genomics Scientist - Pharnext, Paris
-*2012 - 2015*
+### Biostatistician & Computational Genomics Scientist - Pharnext
+*2012 - 2015, Paris*
 - Built a workflow for GWAS data imputation and analysis to discover disease-specific genomic alterations.
 - Designed SAP for Phase II/III clinical trials with adaptive designs, interim futility and power analysis, procedures for multiple endpoints. Meta-analysis of clinical trials.
 - Conducted biomarker statistical analysis for in-house clinical trials, including reportings and presentations for internal and external stakeholders (scientific & business).
 - Authored abstracts, posters, and peer-reviewed articles.
 
-### Biostatistics & Bioinformatics research engineer - Institut Curie / INSERM U900, Paris
-*2009 - 2012*
+### Biostatistics & Bioinformatics research engineer - Institut Curie / INSERM U900
+*2009 - 2012, Paris*
 - Performed omics statistical analyses (gene microarray, RNAseq, exome seq, SNP array) for various cancer research projects.
 - Developed automated workflows for NGS data analysis and SNP microarray data analysis.
 - Co-authored the R package EMA for microarray analysis.
@@ -51,15 +51,14 @@ Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
 ## Education
 
 ### MS in Bioinformatics and Modelling
-*INSA Lyon*  
-*2003 - 2008*
+*INSA Lyon, 2003 - 2008*
 
 ### Research internships
-- Cellular automaton modeling of the dynamics of epidemics – University of Amsterdam (2008)
-- Mathematical modelling of the effect of antibiotic dose on pneumococcus resistance to antibiotics – Institut Pasteur (2007)
+- Cellular automaton modeling of the dynamics of epidemics – *University of Amsterdam, 2008*
+- Mathematical modelling of the effect of antibiotic dose on pneumococcus resistance to antibiotics – *Institut Pasteur, 2007*
 
 ### Trainings
-Time management (Cegos, 2024), Project management with Git & GitHub (ArData, 2022), Docker (Aneo, 2023), Machine learning & DataViz in Python (DataScientest, 2020).
+Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 2022*), Docker (*Aneo, 2023*), Machine learning & DataViz in Python (*DataScientest, 2020*).
 
 
 ## Skills
