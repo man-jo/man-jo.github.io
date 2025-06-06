@@ -113,8 +113,7 @@ Time management (_Cegos, 2024_), Project management with Git & GitHub (_ArData, 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)](#)
 [![Teams](https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white)](#)
-- Agile coordination
-- Cross-functional communication
+Agile coordination, Cross-functional communication
 
 ---
 
