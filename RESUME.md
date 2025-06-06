@@ -1,62 +1,115 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+# Jonas Mandel
+Senior Bioinformatics Scientist
+| [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
+| [linkedin.com/in/jonasmandel](https://www2.linkedin.com/in/jonasmandel/)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
+Expert data analyst for RNAseq, scRNAseq, long-read sequencing, biomarker discovery, GWAS.
+Expert R programmer with working knowledge of Python and extensive use of bioinformatics tools & methods.
+Strong experience in scientific writing and communication with a wide variety of audience (researchers, clinicians, investors).
+Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Senior Bioinformatics Scientist - Mnemo Therapeutics, Paris
+*2021 - 2025*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+- Developed pipelines for detecting alternative splicing and cancer neoantigen prediction using RNAseq, scRNAseq, and long-read RNAseq (PacBio).
+- Led statistical analyses of neoantigen recurrence and peptide prioritization for vaccine and CAR-T development.
+- Integrated transcriptomics and immunopeptidomics data to generate target libraries; implemented automated reporting.
+- Developed long-read RNAseq pipeline for alternative splicing discovery & quantification based on IsoSeq3 & SQANTI.
+- Coordinated cross-team efforts as work package lead for immunopeptidomics target mining; prepared scientific deliverables and presentations.
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+### Biomarker Biostatistician - Sanofi / Ividata, Paris
+*2018 - 2021*
+
+- Led biomarker analyses in phase 2/3 trials (Sarilumab, Dupilumab, SAR440340) using RNAseq, SNP microarray, and proteomics (olink): statistical analysis plan authoring & implementation with R, oversight of CROs, preparation of deliverables.
+- Served as biomarker biostatistician and machine learning advisor in several R&D projects in oncology, cardiology, multiple sclerosis.
+- Developed a shiny app for interactive reporting of omics biomarker data analysis.
+- Participated in the development of R trainings “Introduction to R” and “Graphs in R” for Sanofi statisticians & programmers.
+
+
+### Clinical Biostatistician - Sanofi / Ividata, Paris
+*2016 - 2018*
+
+- GMA Study biostatistician for phase 3b clinical trial (Alirocumab, hypercholesterolemia): authoring SAP and TLFs specs, coordination with CRO & clinical team to prepare of deliverables (KRM, CSR), supervision & QC of CRO’s activities.
+- Biostatistician for the Alirocumab publication program: performed data mining and post-hoc analyses across 14 pooled clinical trials to support the development of abstracts, posters, and peer-reviewed publications.
+
+
+### Biostatistician & Computational Genomics Scientist - Pharnext, Paris
+*2012 - 2015*
+
+- Built a workflow for GWAS data imputation and analysis to discover disease-specific genomic alterations.
+- Designed SAP for Phase II/III clinical trials with adaptive designs, interim futility and power analysis, procedures for multiple endpoints. Meta-analysis of clinical trials.
+- Conducted biomarker statistical analysis for in-house clinical trials, including reportings and presentations for internal and external stakeholders (scientific & business).
+- Authored abstracts, posters, and peer-reviewed articles.
+
+
+### Biostatistics & Bioinformatics research engineer - Institut Curie / INSERM U900, Paris
+*2009 - 2012*
+
+- Performed omics statistical analyses (gene microarray, RNAseq, exome seq, SNP array) for various cancer research projects.
+- Developed automated workflows for NGS data analysis and SNP microarray data analysis.
+- Co-authored the R package EMA for microarray analysis.
+- Participated to developing internal R programming training initiatives.
+ 
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### MS in Bioinformatics and Modelling
+*INSA Lyon*  
+*2003 - 2008*
+
+### Research internships
+- Cellular automaton modeling of the dynamics of epidemics – University of Amsterdam (2008)
+- Mathematical modelling of the effect of antibiotic dose on pneumococcus resistance to antibiotics – Institut Pasteur (2007)
+
+### Trainings
+- Time management (Cegos, 2024)
+- Project management with Git & GitHub (ArData, 2022)
+- Docker (Aneo, 2023)
+- Machine learning & DataViz in Python (DataScientest, 2020).
+
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
+### Biostatistics & Data Science 
+- Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
+- Multivariate statistics: PCA, PLS, t-SNE, UMAP, multiple correspondence analysis, factor analysis
+- Machine learning: supervised classification & regression (LDA, SVM, Lasso / Elastic Net, boosting, bagging, random forests, XGBoost, …), unsupervised clustering (hierarchical clustering, k-means, DBSCAN, gaussian mixture models, …)
 
-## Certifications
+### Omics & Bioinformatics Methods 
+- Transcriptomics (RNAseq, scRNAseq): alignment, normalization, differential analysis, splicing detection & quantification
+- Long-read sequencing (PacBio): transcript identification, isoform quantification, differential analysis
+- Genomics (WGS/WES): variant calling, CNV analysis, fusion gene detection
+- SNP microarrays & GWAS: imputation, association testing
+- Pathway enrichment analysis, GSA/GSEA
 
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+### Bioinformatics tools & Pipelines 
+- STAR, Seurat, StringTie, Samtools, NetMHCpan, DeepTMHMM, PLINK, IsoSeq3, SQANTI, tappAS, BLAST
+- Workflow development with Nextflow, Docker, Galaxy
 
-## Projects
+### Programming & Reporting
+- R: tidyverse, ggplot2, mlr3, data.table, RMarkdown, Shiny
+- Python: pandas, seaborn, scikit-learn, matplotlib
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
+### Collaboration & Project Management
+Git/GitHub, Trello, Teams, agile coordination, cross-functional communication
 
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
+### Languages
+- English: fluent
+- French: native
+- Spanish: good
 
-## Languages
-
-- English: Fluent
-- Swahili: Native
 
 ## Interests
-
+- Theater & acting
 - Hiking
-- Technology
-- Photography
+- Sociology & philosophy
+
+  
+## Publications
+
+
