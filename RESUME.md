@@ -1,7 +1,7 @@
 ---
 title: "Jonas Mandel"
 about:
-  template: jolla
+  template: solana
   links:
     - icon: linkedin
       text: linkedin
