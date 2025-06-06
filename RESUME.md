@@ -1,6 +1,7 @@
 ---
 about:
-  template: trestles
+  template: marquee
+  image-width	: 10em
   image: photo_marseille2.jpg
   links:
     - icon: linkedin
