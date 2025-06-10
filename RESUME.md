@@ -1,7 +1,5 @@
 ---
-format:
-  html:
-    page-layout: custom
+about:
   template: marquee
   image-width	: 20em
   image: photo_marseille2.jpg
@@ -12,6 +10,9 @@ format:
     - icon: envelope-at
       text: email
       href: mailto:jonas.mandel@gmail.com
+format:
+  html:
+    page-layout: custom
 ---
 
 # Jonas Mandel
