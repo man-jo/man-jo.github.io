@@ -12,7 +12,6 @@ about:
       href: mailto:jonas.mandel@gmail.com
 ---
 
-<!-- Vertical Tabs CSS -->
 <style>
 .vertical-tabs-container {
   display: flex;
@@ -55,14 +54,12 @@ about:
 <div class="vertical-tabs-container">
 
   <div class="vertical-tabs">
-    <button class="vertical-tab-button active" onclick="showVerticalTab('about')">About</button>
-    <button class="vertical-tab-button" onclick="showVerticalTab('experience')">Experience</button>
-    <button class="vertical-tab-button" onclick="showVerticalTab('skills')">Skills</button>
-    <button class="vertical-tab-button" onclick="showVerticalTab('interests')">Interests</button>
+    <button class="vertical-tab-button active" onclick="showVerticalTab('Resume')">resume</button>
+    <button class="vertical-tab-button" onclick="showVerticalTab('Publications')">publications</button>
   </div>
 
   <div style="flex:1">
-    <div id="resume" class="vertical-tab-content active"> <!-- Resume content here -->
+    <div id="resume" class="vertical-tab-content active">
 
     # Jonas Mandel
     #### Senior Bioinformatics Scientist
@@ -169,6 +166,7 @@ about:
     <div id="publications" class="vertical-tab-content"> <!-- Publications content here -->
     ## Publications
     </div>
+
   </div>
 </div>
 
