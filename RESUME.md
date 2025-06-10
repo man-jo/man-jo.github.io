@@ -12,6 +12,14 @@ about:
       href: mailto:jonas.mandel@gmail.com
 ---
 
+<div>
+  <button onclick="showTab('resume')">Resume</button>
+  <button onclick="showTab('publications')">Publications</button>
+</div>
+
+
+<div id="resume" class="tab-content"> <!-- Resume content here -->
+  
 # Jonas Mandel
 #### Senior Bioinformatics Scientist
 | [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
@@ -111,6 +119,24 @@ English (fluent), French (native), Spanish (good)
 * Theater & acting
 * Hiking
 * Sociology & philosophy
+* 
+</div>
+
+
+<div id="publications" class="tab-content" style="display:none"> <!-- Publications content here -->
 
 ## Publications
+
+</div>
+
+<script>
+function showTab(tab) {
+  document.querySelectorAll('.tab-content').forEach(div => div.style.display = 'none');
+  document.getElementById(tab).style.display = '';
+}
+</script>
+
+
+
+
 
