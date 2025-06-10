@@ -1,5 +1,7 @@
 ---
-about:
+format:
+  html:
+    page-layout: custom
   template: marquee
   image-width	: 20em
   image: photo_marseille2.jpg
