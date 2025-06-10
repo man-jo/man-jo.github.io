@@ -12,14 +12,48 @@ about:
       href: mailto:jonas.mandel@gmail.com
 ---
 
-<div>
-  <button onclick="showTab('resume')">Resume</button>
-  <button onclick="showTab('publications')">Publications</button>
+<!-- Tabs CSS: you can further customize styles as needed -->
+<style>
+.tabs {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 2px solid #eee;
+  margin-bottom: 1em;
+}
+.tab-button {
+  background: none;
+  border: none;
+  outline: none;
+  padding: 0.5em 1.5em;
+  cursor: pointer;
+  font-size: 1.1em;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s;
+}
+.tab-button.active {
+  border-bottom: 2px solid #0078D7;
+  color: #0078D7;
+  font-weight: bold;
+}
+.tab-content {
+  display: none;
+  margin-top: 1em;
+}
+.tab-content.active {
+  display: block;
+}
+</style>
+
+
+<!-- Tabs HTML: Add/remove buttons and content as needed -->
+<div class="tabs">
+  <button class="tab-button active" onclick="showTab('resume')">Resume</button>
+  <button class="tab-button" onclick="showTab('publications')">Publications</button>
 </div>
 
 
-<div id="resume" class="tab-content"> <!-- Resume content here -->
-  
+<div id="resume" class="tab-content active"> <!-- Resume content here -->
+
 # Jonas Mandel
 #### Senior Bioinformatics Scientist
 | [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
@@ -74,7 +108,7 @@ about:
 * Co-authored the R package EMA for microarray analysis.
 * Participated to developing internal R programming training initiatives.
 
- 
+
 ## Education
 
 ### MS in Bioinformatics and Modelling
@@ -90,19 +124,19 @@ Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 
 
 ## Skills
 
-### Biostatistics & Data Science 
+### Biostatistics & Data Science
 * Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
 * Multivariate statistics: PCA, PLS, t-SNE, UMAP, multiple correspondence analysis, factor analysis
 * Machine learning: supervised classification & regression (LDA, SVM, Lasso / Elastic Net, boosting, bagging, random forests, XGBoost, …), unsupervised clustering (hierarchical clustering, k-means, DBSCAN, gaussian mixture models, …)
 
-### Omics & Bioinformatics Methods 
+### Omics & Bioinformatics Methods
 * Transcriptomics (RNAseq, scRNAseq): alignment, normalization, differential analysis, splicing detection & quantification
 * Long-read sequencing (PacBio): transcript identification, isoform quantification, differential analysis
 * Genomics (WGS/WES): variant calling, CNV analysis, fusion gene detection
 * SNP microarrays & GWAS: imputation, association testing
 * Pathway enrichment analysis, GSA/GSEA
 
-### Bioinformatics tools & workflows 
+### Bioinformatics tools & workflows
 * tools: STAR, Seurat, StringTie, Samtools, NetMHCpan, DeepTMHMM, PLINK, IsoSeq3, SQANTI, tappAS, BLAST
 * workflows development: Nextflow, Docker, Galaxy
 
@@ -119,24 +153,24 @@ English (fluent), French (native), Spanish (good)
 * Theater & acting
 * Hiking
 * Sociology & philosophy
-* 
 </div>
 
 
-<div id="publications" class="tab-content" style="display:none"> <!-- Publications content here -->
+<div id="publications" class="tab-content"> <!-- Publications content here -->
 
 ## Publications
 
 </div>
 
+<!-- Tabs JS: Handles tab switching -->
 <script>
-function showTab(tab) {
-  document.querySelectorAll('.tab-content').forEach(div => div.style.display = 'none');
-  document.getElementById(tab).style.display = '';
+function showTab(tabId) {
+  document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+  // Activate the button
+  const idx = ['resume', 'publications'].indexOf(tabId);
+  document.querySelectorAll('.tab-button')[idx].classList.add('active');
+  // Show the right content
+  document.getElementById(tabId).classList.add('active');
 }
 </script>
-
-
-
-
-
