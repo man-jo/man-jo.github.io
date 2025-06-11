@@ -10,9 +10,6 @@ about:
     - icon: envelope-at
       text: email
       href: mailto:jonas.mandel@gmail.com
-format:
-  html:
-    page-layout: custom
 ---
 
 # Jonas Mandel
