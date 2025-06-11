@@ -2,7 +2,7 @@
 **Senior Bioinformatics Scientist** | {{< fa at >}} [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/jonasmandel](https://www.linkedin.com/in/jonasmandel/)
 
 
-## [Res]{.char-color}ume
+## [Resume]{.char-color}
 
 ### [About]{.char-color} me
 * 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
@@ -64,7 +64,7 @@
 * Participated to developing internal R programming training initiatives.
 
 
-### [Edu]{.char-color}cation
+### [Education]{.char-color}
 
 #### MS in Bioinformatics and Modelling
 *INSA Lyon, 2003 - 2008*
@@ -77,7 +77,7 @@
 Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 2022*), Docker (*Aneo, 2023*), Machine learning & DataViz in Python (*DataScientest, 2020*).
 
 
-### [Ski]{.char-color}lls
+### [Skills]{.char-color}
 
 #### Biostatistics & Data Science
 * Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
@@ -101,16 +101,16 @@ R (tidyverse, ggplot2, mlr3, data.table, RMarkdown, Shiny), Python (pandas, seab
 #### Collaboration & Project Management
 Git/GitHub, Trello, Teams, agile coordination, cross-functional communication
 
-### [Lan]{.char-color}guages
+### [Languages]{.char-color}
 English (fluent), French (native), Spanish (good)
 
-### [Int]{.char-color}erests
+### [Interests]{.char-color}
 * Theater & acting
 * Hiking / running
 * Sociology, philosophy
 * Science fiction litterature
 
 
-## [Pub]{.char-color}lications
+## [Publications]{.char-color}
 _Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer's Disease._
 Nabirotchkin S, Bouaziz J, Glibert F, Mandel J, Foucquier J, Hajj R, Callizot N, Cholet N, Guedj M, Cohen D. J Alzheimers Dis. 2022;88(4):1585-1603. doi: 10.3233/JAD-220120.
