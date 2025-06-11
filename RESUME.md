@@ -1,4 +1,3 @@
-
 # Jonas Mandel
 #### Senior Bioinformatics Scientist
 | [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
