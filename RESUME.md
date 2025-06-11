@@ -1,23 +1,9 @@
----
-about:
-  template: marquee
-  image-width	: 20em
-  image: photo_marseille2.jpg
-  links:
-    - icon: linkedin
-      text: linkedin
-      href: https://www.linkedin.com/in/jonasmandel/
-    - icon: envelope-at
-      text: email
-      href: mailto:jonas.mandel@gmail.com
----
 
 # Jonas Mandel
 #### Senior Bioinformatics Scientist
 | [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com)
 | [linkedin.com/in/jonasmandel](https://www.linkedin.com/in/jonasmandel/)
 
-::: {.panel-tabset}
 
 ## Resume
 
@@ -120,5 +106,3 @@ English (fluent), French (native), Spanish (good)
 ## Publications
 _Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer's Disease._
 Nabirotchkin S, Bouaziz J, Glibert F, Mandel J, Foucquier J, Hajj R, Callizot N, Cholet N, Guedj M, Cohen D. J Alzheimers Dis. 2022;88(4):1585-1603. doi: 10.3233/JAD-220120.
-
-:::
