@@ -75,7 +75,7 @@
 Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 2022*), Docker (*Aneo, 2023*), Machine learning & DataViz in Python (*DataScientest, 2020*).
 
 
-## {{< iconify streamline-color:brain >}} [Skills]{.char-color}
+## {{< iconify streamline-color:target >}} [Skills]{.char-color}
 
 ### [Biostatistics & Data Science]{.char-color}
 * Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
