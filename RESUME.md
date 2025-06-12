@@ -13,7 +13,7 @@
 ## [Work]{.char-color} Experience
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-### [Senior Bioinformatics Scientist{.char-color} - Mnemo Therapeutics
+### [Senior Bioinformatics Scientist]{.char-color} - Mnemo Therapeutics
 *2021 - 2025, Paris*
 :::
 
