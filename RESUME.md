@@ -10,7 +10,7 @@
 * Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
 
 
-## [Work]{.char-color} Experience
+## [Work]{.char-color} Experience {{< iconify streamline-color:workspace-desk >}}
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Senior Bioinformatics Scientist]{.char-color} - Mnemo Therapeutics
