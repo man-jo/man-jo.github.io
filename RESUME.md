@@ -10,7 +10,7 @@
 * Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
 
 
-## [Work]{.char-color} Experience {{< iconify streamline-color:workspace-desk >}}
+## {{< iconify streamline-color:workspace-desk >}} [Work]{.char-color} Experience
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Senior Bioinformatics Scientist]{.char-color} - Mnemo Therapeutics
@@ -62,7 +62,7 @@
 * Participated to developing internal R programming training initiatives.
 
 
-## [Education]{.char-color}
+## {{< iconify streamline-color:graduation-cap >}} [Education]{.char-color}
 
 ### [MS in Bioinformatics and Modelling]{.char-color}
 *INSA Lyon, 2003 - 2008*
@@ -75,7 +75,7 @@
 Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 2022*), Docker (*Aneo, 2023*), Machine learning & DataViz in Python (*DataScientest, 2020*).
 
 
-## [Skills]{.char-color}
+## {{< iconify streamline-color:brain >}} [Skills]{.char-color}
 
 ### [Biostatistics & Data Science]{.char-color}
 * Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
@@ -102,12 +102,12 @@ Git/GitHub, Trello, Teams, agile coordination, cross-functional communication
 ### [Languages]{.char-color}
 English (fluent), French (native), Spanish (good)
 
-## [Interests]{.char-color}
+## {{< iconify streamline-color:like-1 >}} [Interests]{.char-color}
 * Theater & acting
 * Hiking / running
 * Sociology, philosophy
 * Science fiction litterature
 
-## [Publications]{.char-color}
+## {{< iconify streamline-color:news-paper >}} [Publications]{.char-color}
 _Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer's Disease._
 Nabirotchkin S, Bouaziz J, Glibert F, Mandel J, Foucquier J, Hajj R, Callizot N, Cholet N, Guedj M, Cohen D. J Alzheimers Dis. 2022;88(4):1585-1603. doi: 10.3233/JAD-220120.
