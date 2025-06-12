@@ -1,4 +1,4 @@
-bs-blue.nav-footer-center {
+.nav-footer-center {
     margin: 0;
 }
 
@@ -11,10 +11,10 @@ main {
     display: none;
 }
 
-@media print {
-    .no-print, .no-print *, footer, footer *, header, header * {
-        display: none !important;
-    }
+@media print { 
+  .no-print, .no-print *, footer, footer *, header, header *, .top-right {
+      display: none !important;
+  }
 }
 
 /* OTHER STYLES */
