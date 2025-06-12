@@ -2,7 +2,7 @@
 **Senior Bioinformatics Scientist** | {{< fa at >}} [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/jonasmandel](https://www.linkedin.com/in/jonasmandel/)
 
 
-## [About]{.char-color} me
+## {{< streamline-color:user-profile-focus >}} [About]{.char-color} me
 * 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
 * Expert data analyst for RNAseq, scRNAseq, long-read sequencing, biomarker discovery, GWAS.
 * Expert R programmer with working knowledge of Python and extensive use of bioinformatics tools & methods.
