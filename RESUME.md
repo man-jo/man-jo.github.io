@@ -2,9 +2,7 @@
 **Senior Bioinformatics Scientist** | {{< fa at >}} [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/jonasmandel](https://www.linkedin.com/in/jonasmandel/)
 
 
-## [Resume]{.char-color}
-
-### [About]{.char-color} me
+## [About]{.char-color} me
 * 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
 * Expert data analyst for RNAseq, scRNAseq, long-read sequencing, biomarker discovery, GWAS.
 * Expert R programmer with working knowledge of Python and extensive use of bioinformatics tools & methods.
@@ -12,10 +10,10 @@
 * Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
 
 
-### [Work]{.char-color} Experience
+## [Work]{.char-color} Experience
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### **Senior Bioinformatics Scientist - Mnemo Therapeutics**
+### [Senior Bioinformatics Scientist]{.char-color} - Mnemo Therapeutics
 *2021 - 2025, Paris*
 :::
 
@@ -26,7 +24,7 @@
 * Coordinated cross-team efforts as work package lead for immunopeptidomics target mining; prepared scientific deliverables and presentations.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### Biomarker Biostatistician - Sanofi / Ividata
+### [Biomarker Biostatistician]{.char-color} - Sanofi / Ividata
 *2018 - 2021, Paris*
 :::
 
@@ -36,7 +34,7 @@
 * Participated in the development of R trainings “Introduction to R” and “Graphs in R” for Sanofi statisticians & programmers.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### Clinical Biostatistician - Sanofi / Ividata
+### [Clinical Biostatistician]{.char-color} - Sanofi / Ividata
 *2016 - 2018, Paris*
 :::
 
@@ -44,7 +42,7 @@
 * Biostatistician for the Alirocumab publication program: performed data mining and post-hoc analyses across 14 pooled clinical trials to support the development of abstracts, posters, and peer-reviewed publications.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### Biostatistician & Computational Genomics Scientist - Pharnext
+### [Biostatistician & Computational Genomics Scientist]{.char-color} - Pharnext
 *2012 - 2015, Paris*
 :::
 
@@ -54,7 +52,7 @@
 * Authored abstracts, posters, and peer-reviewed articles.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### Biostatistics & Bioinformatics research engineer - Institut Curie / INSERM U900
+### [Biostatistics & Bioinformatics research engineer]{.char-color} - Institut Curie / INSERM U900
 *2009 - 2012, Paris*
 :::
 
@@ -64,52 +62,51 @@
 * Participated to developing internal R programming training initiatives.
 
 
-### [Education]{.char-color}
+## [Education]{.char-color}
 
-#### MS in Bioinformatics and Modelling
+### [MS in Bioinformatics and Modelling]{.char-color}
 *INSA Lyon, 2003 - 2008*
 
-#### Research internships
+### [Research internships]{.char-color}
 * Cellular automaton modeling of the dynamics of epidemics – *University of Amsterdam, 2008*
 * Mathematical modelling of the effect of antibiotic dose on pneumococcus resistance to antibiotics – *Institut Pasteur, 2007*
 
-#### Trainings
+### [Trainings]{.char-color}
 Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 2022*), Docker (*Aneo, 2023*), Machine learning & DataViz in Python (*DataScientest, 2020*).
 
 
-### [Skills]{.char-color}
+## [Skills]{.char-color}
 
-#### Biostatistics & Data Science
+### [Biostatistics & Data Science]{.char-color}
 * Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
 * Multivariate statistics: PCA, PLS, t-SNE, UMAP, multiple correspondence analysis, factor analysis
 * Machine learning: supervised classification & regression (LDA, SVM, Lasso / Elastic Net, boosting, bagging, random forests, XGBoost, …), unsupervised clustering (hierarchical clustering, k-means, DBSCAN, gaussian mixture models, …)
 
-#### Omics & Bioinformatics Methods
+### [Omics & Bioinformatics]{.char-color}
 * Transcriptomics (RNAseq, scRNAseq): alignment, normalization, differential analysis, splicing detection & quantification
 * Long-read sequencing (PacBio): transcript identification, isoform quantification, differential analysis
 * Genomics (WGS/WES): variant calling, CNV analysis, fusion gene detection
 * SNP microarrays & GWAS: imputation, association testing
 * Pathway enrichment analysis, GSA/GSEA
 
-#### Bioinformatics tools & workflows
+### [Bioinformatics tools & workflows]{.char-color}
 * tools: STAR, Seurat, StringTie, Samtools, NetMHCpan, DeepTMHMM, PLINK, IsoSeq3, SQANTI, tappAS, BLAST
 * workflows development: Nextflow, Docker, Galaxy
 
-#### Programming & DataViz
+### [Programming & DataViz]{.char-color}
 R (tidyverse, ggplot2, mlr3, data.table, RMarkdown, Shiny), Python (pandas, seaborn, scikit-learn, matplotlib)
 
-#### Collaboration & Project Management
+### [Collaboration & Project Management]{.char-color}
 Git/GitHub, Trello, Teams, agile coordination, cross-functional communication
 
 ### [Languages]{.char-color}
 English (fluent), French (native), Spanish (good)
 
-### [Interests]{.char-color}
+## [Interests]{.char-color}
 * Theater & acting
 * Hiking / running
 * Sociology, philosophy
 * Science fiction litterature
-
 
 ## [Publications]{.char-color}
 _Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer's Disease._
