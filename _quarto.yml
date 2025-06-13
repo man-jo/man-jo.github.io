@@ -10,6 +10,7 @@ project:
     - "RESUME.md"
 website:
   title: "Jonas Mandel"
+  subtitle: Senior Bioinformatics Scientist
   site-url: https://man-jo.github.io
   page-footer:
     border: true
