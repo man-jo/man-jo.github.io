@@ -24,7 +24,6 @@ format:
     theme:
       light: zephyr
       dark: solar
-      fontsize: 0.8em
     css: styles.css
     link-external-newwindow: true
     canonical-url: true
