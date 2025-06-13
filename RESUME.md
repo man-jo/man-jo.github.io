@@ -134,8 +134,8 @@ Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 
 * Science fiction litterature
 
 ## {{< iconify streamline-color:news-paper >}} [Publications]{.char-color}
-_Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer's Disease._
-Nabirotchkin S, Bouaziz J, Glibert F, Mandel J, Foucquier J, Hajj R, Callizot N, Cholet N, Guedj M, Cohen D. J Alzheimers Dis. 2022;88(4):1585-1603. doi: 10.3233/JAD-220120.
+**Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer's Disease.**
+Nabirotchkin S, Bouaziz J, Glibert F, <u>Mandel J</u>, Foucquier J, Hajj R, Callizot N, Cholet N, Guedj M, Cohen D. J Alzheimers Dis. 2022;88(4):1585-1603. doi: 10.3233/JAD-220120.
 :::
 
 :::
