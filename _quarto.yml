@@ -20,8 +20,8 @@ format-links: false
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: superhero
+      dark: superhero
     css: styles.css
     link-external-newwindow: true
     canonical-url: true
