@@ -18,7 +18,7 @@
 ### {{< iconify streamline-color:workspace-desk >}} [Work]{.char-color} Experience
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### **[Senior Bioinformatics Scientist]{.char-color} - Mnemo Therapeutics**
+#### [Senior Bioinformatics Scientist]{.char-color} - Mnemo Therapeutics
 *2021 - 2025, Paris*
 :::
 
@@ -30,7 +30,7 @@
 * Company-wide support to develop & optimize automated data analysis and reporting processes.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### **[Biomarker Biostatistician]{.char-color} - Sanofi / Ividata**
+#### [Biomarker Biostatistician]{.char-color} - Sanofi / Ividata
 *2018 - 2021, Paris*
 :::
 
@@ -40,7 +40,7 @@
 *	Participated in the development of R trainings “Introduction to R” and “Graphs in R” for Sanofi statisticians & programmers.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### **[Clinical Biostatistician]{.char-color} - Sanofi / Ividata**
+#### [Clinical Biostatistician]{.char-color} - Sanofi / Ividata
 *2016 - 2018, Paris*
 :::
 
@@ -48,7 +48,7 @@
 * Led the biostatistics & data analysis strategy for the Alirocumab publication program, overseeing data mining and post-hoc analyses of 14 pooled clinical trials to generate scientific insights and support publications in peer-reviewed journals.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### **[Biostatistician & Computational Genomics Scientist]{.char-color} - Pharnext**
+#### [Biostatistician & Computational Genomics Scientist]{.char-color} - Pharnext
 *2012 - 2015, Paris*
 :::
 
@@ -57,7 +57,7 @@
 * Conducted biomarker statistical analysis for in-house clinical trials, including reportings and presentations for internal and external stakeholders (scientific & business).
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-#### **[Biostatistics & Bioinformatics research engineer]{.char-color} - Institut Curie / INSERM U900**
+#### [Biostatistics & Bioinformatics research engineer]{.char-color} - Institut Curie / INSERM U900
 *2009 - 2012, Paris*
 :::
 
@@ -68,7 +68,7 @@
 
 ### {{< iconify streamline-color:target >}} [Skills]{.char-color}
 
-#### **[Biostatistics & Data Science]{.char-color}**
+#### [Biostatistics & Data Science]{.char-color}
 * Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
 * Multivariate statistics: PCA, PLS, t-SNE, UMAP, multiple correspondence analysis, factor analysis
 * Machine learning: supervised classification & regression (LDA, SVM, Lasso / Elastic Net, boosting, bagging, random forests, XGBoost, …), unsupervised clustering (hierarchical clustering, k-means, DBSCAN, gaussian mixture models, …)
@@ -80,34 +80,34 @@
 * SNP microarrays & GWAS: imputation, association testing
 * Pathway enrichment analysis, GSA/GSEA
 
-#### **[Bioinformatics tools & workflows]{.char-color}**
+#### [Bioinformatics tools & workflows]{.char-color}
 * STAR, Seurat, StringTie, Samtools, NetMHCpan, DeepTMHMM, PLINK, IsoSeq3, SQANTI, tappAS, BLAST
 * Workflow development with Nextflow, Docker, Galaxy
 
-#### **[Programming & DataViz]{.char-color}**
+#### [Programming & DataViz]{.char-color}
 R (tidyverse, ggplot2, mlr3, tidymodels, RMarkdown, Shiny), Python (pandas, seaborn, scikit-learn, matplotlib)
 
-#### **[Collaboration & Project Management]{.char-color}**
+#### [Collaboration & Project Management]{.char-color}
 Git/GitHub, Trello, Teams, agile coordination, cross-functional communication
 
-#### **[Languages]{.char-color}**
+#### [Languages]{.char-color}
 English (fluent), French (native), Spanish (good)
 
 
 ### {{< iconify streamline-color:graduation-cap >}} [Education]{.char-color}
 
-#### **[MS in Bioinformatics and Modelling]{.char-color}**
+#### [MS in Bioinformatics and Modelling]{.char-color}
 *INSA Lyon, 2003 - 2008*
 
-#### **[Research internships]{.char-color}**
+#### [Research internships]{.char-color}
 * Cellular automaton modeling of the dynamics of epidemics – *University of Amsterdam, 2008*
 * Mathematical modelling of the effect of antibiotic dose on pneumococcus resistance to antibiotics – *Institut Pasteur, 2007*
 
-#### **[Trainings]{.char-color}**
+#### [Trainings]{.char-color}
 Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 2022*), Docker (*Aneo, 2023*), Machine learning & DataViz in Python (*DataScientest, 2020*).
 
 
-### **{{< iconify streamline-color:like-1 >}} [Interests]{.char-color}**
+### {{< iconify streamline-color:like-1 >}} [Interests]{.char-color}
 * Theater & acting
 * Hiking / running
 * Sociology, philosophy
