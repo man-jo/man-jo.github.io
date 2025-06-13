@@ -28,16 +28,16 @@ u {
 }
 
 
-h1 > .char-color, h2 > .char-color {
+h1 > .char-color, h2 > .char-color, h3 > .char-color  {
   color: var(--bs-pink);
 }
 
-h3 > .char-color {
+h4 > .char-color {
   color: var(--bs-indigo);
 }
 
 .char-warning {
-  color: var(--bs-indigo);
+  color: var(--bs-warning);
 }
 
 .lighter-title {
