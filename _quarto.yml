@@ -9,7 +9,8 @@ project:
   render:
     - "RESUME.md"
 website:
-  favicon: "cycle.jpg"
+  title: "Jonas Mandel"
+  site-url: https://man-jo.github.io
   page-footer:
     border: true
     background: dark
