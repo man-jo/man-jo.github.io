@@ -15,10 +15,12 @@ about:
 <!---# [Jonas [Mandel]{.lighter-title .char-warning} [![](./photo_marseille2.jpg)]{.content-visible when-format="html"}]{.profile-img}--->
 :::{.column-page}
 
+<!---
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### Senior Bioinformatics Scientist
 {{< fa at >}} [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/jonasmandel](https://www.linkedin.com/in/jonasmandel/)
 :::
+--->
 
 ::: {.panel-tabset}
 ## [Resume]{.char-color}
