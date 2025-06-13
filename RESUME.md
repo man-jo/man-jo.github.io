@@ -1,5 +1,6 @@
 ---
 title: Jonas Mandel
+subtitle: Senior Bioinformatics Scientist
 image: photo_marseille2.jpg
 about:
   template: trestles
@@ -12,8 +13,9 @@ about:
       url: "mailto:jonas.mandel@gmail.com"  
 ---
 
-<!---# [Jonas [Mandel]{.lighter-title .char-warning} [![](./photo_marseille2.jpg)]{.content-visible when-format="html"}]{.profile-img}--->
 :::{.column-page}
+
+<!---# [Jonas [Mandel]{.lighter-title .char-warning} [![](./photo_marseille2.jpg)]{.content-visible when-format="html"}]{.profile-img}--->
 
 <!---
 ::: {.d-flex .justify-content-between .flex-wrap}
