@@ -3,7 +3,7 @@ title: Jonas Mandel
 image: photo_marseille2.jpg
 about:
   template: trestles
-  image-width: 10em
+  image-width: 12em
   image-shape: round
 ---
 
