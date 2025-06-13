@@ -6,9 +6,9 @@ about:
   image-width: 12em
   image-shape: round
   links:
-    - text: {{< fa brands linkedin >}} in/jonasmandel
+    - text: "{{< fa brands linkedin >}} in/jonasmandel"
       url: "https://www.linkedin.com/in/jonasmandel"
-    - text: {{< fa at >}} jonas.mandel@gmail.com
+    - text: "{{< fa at >}} jonas.mandel@gmail.com"
       url: "mailto:jonas.mandel@gmail.com"  
 ---
 
