@@ -8,6 +8,7 @@ about:
 ---
 
 <!---# [Jonas [Mandel]{.lighter-title .char-warning} [![](./photo_marseille2.jpg)]{.content-visible when-format="html"}]{.profile-img}--->
+:::{.column-page}
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### Senior Bioinformatics Scientist
@@ -126,5 +127,6 @@ Time management (*Cegos, 2024*), Project management with Git & GitHub (*ArData, 
 ## {{< iconify streamline-color:news-paper >}} [Publications]{.char-color}
 _Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer's Disease._
 Nabirotchkin S, Bouaziz J, Glibert F, Mandel J, Foucquier J, Hajj R, Callizot N, Cholet N, Guedj M, Cohen D. J Alzheimers Dis. 2022;88(4):1585-1603. doi: 10.3233/JAD-220120.
+:::
 
 :::
