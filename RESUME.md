@@ -7,9 +7,9 @@ about:
   image-width: 12em
   image-shape: round
   links:
-    - text: "{{< iconify skill-icons:linkedin >}} in/jonasmandel"
+    - text: "{{< iconify logos:linkedin-icon >}} in/jonasmandel"
       url: "https://www.linkedin.com/in/jonasmandel"
-    - text: "{{< iconify solar:mailbox-bold >}} jonas.mandel@gmail.com"
+    - text: "{{< iconify streamline-color:mail-send-email-message >}} jonas.mandel@gmail.com"
       url: "mailto:jonas.mandel@gmail.com"  
 ---
 
