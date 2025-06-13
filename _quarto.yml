@@ -20,8 +20,8 @@ format-links: false
 format:
   html:
     theme:
-      light: superhero
-      dark: superhero
+      light: zephyr
+      dark: solar
     css: styles.css
     link-external-newwindow: true
     canonical-url: true
