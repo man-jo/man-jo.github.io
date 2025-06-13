@@ -18,8 +18,7 @@ website:
         href: /index.pdf
 format-links: false
 format:
-#  html:
-  dashboard:
+  html:
     theme:
       light: zephyr
       dark: solar
