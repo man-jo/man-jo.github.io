@@ -29,7 +29,7 @@ u {
 
 
 h1 > .char-color, h2 > .char-color, h3 > .char-color  {
-  color: var(--bs-pink);
+  color: var(--bs-orange);
 }
 
 h4 > .char-color {
@@ -37,7 +37,7 @@ h4 > .char-color {
 }
 
 .char-warning {
-  color: var(--bs-warning);
+  color: var(--bs-orange);
 }
 
 .lighter-title {
@@ -50,7 +50,7 @@ h3, .h3, h4, .h4 {
 
 .gradient-underline {
   text-decoration: none !important;
-  background-image: linear-gradient(90deg, var(--bs-pink), var(--bs-indigo));
+  background-image: linear-gradient(90deg, var(--bs-orange), var(--bs-indigo));
   background-repeat: no-repeat;
   background-position: 0 100%;
   background-size: 100% 2px;
