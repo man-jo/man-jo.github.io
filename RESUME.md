@@ -1,4 +1,14 @@
-# [Jonas [Mandel]{.lighter-title .char-warning} [![](./photo_marseille2.jpg)]{.content-visible when-format="html"}]{.profile-img}
+---
+title: Jonas Mandel
+image: photo_marseille2.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+---
+
+<!---# [Jonas [Mandel]{.lighter-title .char-warning} [![](./photo_marseille2.jpg)]{.content-visible when-format="html"}]{.profile-img}--->
+
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Senior Bioinformatics Scientist]{.char-color}
 {{< fa at >}} [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/jonasmandel](https://www.linkedin.com/in/jonasmandel/)
