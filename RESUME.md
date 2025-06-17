@@ -28,11 +28,8 @@ about:
 ## [Resume]{.char-color}
 
 ### {{< iconify streamline-color:user-profile-focus >}} [About]{.char-color} me
-* 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics.
-* Expert data analyst for RNAseq, scRNAseq, long-read sequencing, biomarker data analysis, GWAS.
-* Expert R programmer with working knowledge of Python and extensive use of bioinformatics tools & methods.
-* Strong experience in scientific writing & communication for a variety of audiences (researchers, clinicians, investors).
-* Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
+
+Accomplished bioinformatics scientist with 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics. Expert omics data analyst for RNAseq, scRNAseq, long-read sequencing, biomarker data analysis, GWAS. Expert R programmer with working knowledge of Python and proficiency in various bioinformatics & biostatistics methods & tools. Strong experience in scientific writing & communication for a variety of audiences (researchers, clinicians, investors). Focus areas: immuno-oncology, cardiology, neurology, rare diseases.
 
 
 ### {{< iconify streamline-color:workspace-desk >}} [Work]{.char-color} Experience
@@ -42,12 +39,13 @@ about:
 *2021 - 2025, Paris*
 :::
 
-* Developed and optimized pipelines for detecting alternative splicing and cancer neoantigen prediction using RNAseq, scRNAseq, and long-read RNAseq (PacBio).
-* Led statistical analyses of neoantigen recurrence and peptide prioritization for vaccine and CAR-T development.
-* Led development of automatized pipeline for integration of transcriptomics and immunopeptidomics databases (several thousand samples) to generate target peptides libraries.
-* Developed long-read RNAseq pipeline for alternative splicing discovery & quantification based on IsoSeq3 & SQANTI.
+* Developed pipelines for detection of alternative splicing and cancer neoantigen prediction using RNAseq, scRNAseq, and long-read RNAseq (PacBio).
+* Led integration of transcriptomics (>20K RNAseq samples) and immunopeptidomics databases (>1.5K samples) to generate target peptides libraries: >1.2K putative targets, leading to 8 validated peptide targets.
+* Designed statistical analysis of neoantigen recurrence and peptide prioritization, instrumental for target mining strategy for vaccine and CAR-T development.
+* Implemented long-read RNAseq pipeline for alternative splicing discovery & quantification based on IsoSeq3 & SQANTI.
 * Coordinated cross-team efforts as work package lead for immunopeptidomics target mining; prepared scientific deliverables and presentations.
-* Company-wide support to develop & optimize automated data analysis and reporting processes.
+* Participated in the design & setup of the bioinformatics work environment from scratch: github, AWS, Trello, ...
+* Company-wide support to develop automated data analysis and reporting.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 #### [Biomarker Biostatistician]{.char-color} - Sanofi / Ividata
@@ -55,9 +53,9 @@ about:
 :::
 
 * Led biomarker analyses in phase 2/3 trials (Sarilumab, Dupilumab, SAR440340) using RNAseq, SNP microarray, and proteomics (olink): SAP authoring & implementation with R, oversight of CROs, preparation of deliverables.
-* Biomarker biostatistician and machine learning advisor in several R&D projects in oncology, cardiology, multiple sclerosis. 
-*	Developed a shiny app for interactive reporting of omics biomarker data analysis.
-*	Participated in the development of R trainings “Introduction to R” and “Graphs in R” for Sanofi statisticians & programmers.
+* Biomarker biostatistician and machine learning advisor in several R&D projects in oncology, cardiology, multiple sclerosis.
+* Developed a shiny app for interactive reporting of omics biomarker data analysis.
+* Participated in the development of R trainings “Introduction to R” and “Graphs in R” for Sanofi statisticians & programmers.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 #### [Clinical Biostatistician]{.char-color} - Sanofi / Ividata
@@ -72,8 +70,8 @@ about:
 *2012 - 2015, Paris*
 :::
 
-* Built a workflow for GWAS data imputation and analysis to discover disease-specific genomic alterations. 
-* Designed SAP for Phase II/III clinical trials with adaptive designs, interim futility and power analysis, procedures for multiple endpoints.
+* Led design & implementation of a workflow for GWAS data imputation and analysis to discover disease-specific genomic alterations.
+* Designed & wrote SAP for Phase II/III clinical trials with adaptive designs, interim futility and power analysis, procedures for multiple endpoints. Meta-analysis of clinical trials.
 * Conducted biomarker statistical analysis for in-house clinical trials, including reportings and presentations for internal and external stakeholders (scientific & business).
 
 ::: {.d-flex .justify-content-between .flex-wrap}
@@ -82,27 +80,27 @@ about:
 :::
 
 * Performed omics statistical analyses (gene microarray, RNAseq, exome seq, SNP array) for various cancer research projects.
-* Developed automated workflows for omics data analysis.
+* Development automated workflows for omics data analysis.
 * Participated to developing internal R programming training initiatives.
-
+* 
 
 ### {{< iconify streamline-color:target >}} [Skills]{.char-color}
 
 #### [Biostatistics & Data Science]{.char-color}
-* Statistical modelling & inference: generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis
-* Multivariate statistics: PCA, PLS, t-SNE, UMAP, multiple correspondence analysis, factor analysis
-* Machine learning: supervised classification & regression (LDA, SVM, Lasso / Elastic Net, boosting, bagging, random forests, XGBoost, …), unsupervised clustering (hierarchical clustering, k-means, DBSCAN, gaussian mixture models, …)
+* **Statistical modelling & inference:** generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis.
+* **Multivariate statistics:** PCA, PLS, t-SNE, UMAP, multiple correspondence analysis, factor analysis.
+* **Machine learning:** supervised classification & regression (LDA, SVM, Lasso / Elastic Net, boosting, bagging, random forests, XGBoost, …), unsupervised clustering (hierarchical clustering, k-means, DBSCAN, gaussian mixture models, …).
 
 #### [Omics & Bioinformatics]{.char-color}
-* Transcriptomics (RNAseq, scRNAseq): alignment, normalization, differential analysis, splicing detection & quantification
-* Long-read sequencing (PacBio): transcript identification, isoform quantification, differential analysis
-* Genomics (WGS/WES): variant calling, CNV analysis, fusion gene detection
-* SNP microarrays & GWAS: imputation, association testing
-* Pathway enrichment analysis, GSA/GSEA
+* **Transcriptomics (RNAseq, scRNAseq):** alignment, normalization, differential analysis, splicing detection & quantification.
+* **Long-read sequencing (PacBio):** transcript identification, isoform quantification, differential analysis.
+* **Genomics (WGS/WES):** variant calling, CNV analysis, fusion gene detection.
+* **SNP microarrays & GWAS:** imputation, association testing.
+* **Pathway enrichment:** GSA/GSEA.
 
 #### [Bioinformatics tools & workflows]{.char-color}
-* STAR, Seurat, StringTie, Samtools, NetMHCpan, DeepTMHMM, PLINK, IsoSeq3, SQANTI, tappAS, BLAST
-* Workflow development with Nextflow, Docker, Galaxy
+* **Tools:** STAR, Seurat, StringTie, Samtools, NetMHCpan, DeepTMHMM, PLINK, IsoSeq3, SQANTI, tappAS, BLAST.
+* **Workflow development:** Nextflow, Docker, Galaxy.
 
 #### [Programming & DataViz]{.char-color}
 R (tidyverse, ggplot2, mlr3, tidymodels, RMarkdown, Shiny), Python (pandas, seaborn, scikit-learn, matplotlib)
