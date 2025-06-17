@@ -1,30 +1,895 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deployment in Progress</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding-top: 100px;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-    </style>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Senior Bioinformatics Scientist | Jonas Mandel – Jonas Mandel</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-8fc9c05ad6931e8a09952635de7d203b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-eeb70d5aa6249a4465b752214f37a634.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-8fc9c05ad6931e8a09952635de7d203b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G7H7C7P7N"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-G7H7C7P7N', { 'anonymize_ip': true});
+</script>
+<meta name="keywords" content="jonas.mandel@gmail.com, example.com, Quarto Resume">
+
+
+<link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://man-jo.github.io/index.html">
 </head>
-<body>
-    <div class="container">
-        <h1>Deployment in Progress</h1>
-        <p>We are currently deploying a new version of our pages.</p>
-        <p>Please bear with us as this process may take a few moments...</p>
-        <p>Thank you for your patience.</p>
+
+<body class="quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<div class="quarto-about-trestles page-columns page-full column-body">
+  <div class="about-entity">
+    <img src="photo_marseille2.jpg" class="about-image
+  round " style="height: 12em; width: 12em;">
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Jonas Mandel</h1>
+<p class="subtitle lead">Senior Bioinformatics Scientist</p>
+</div>
+<div class="quarto-title-meta column-body">
+  </div>
+</header>
+    <div class="about-links">
+  <a href="https://www.linkedin.com/in/jonasmandel" class="about-link" rel="" target="">
+     <span class="about-link-text"><iconify-icon role="img" inline="" icon="logos:linkedin-icon" aria-label="Icon linkedin-icon from logos Iconify.design set." title="Icon linkedin-icon from logos Iconify.design set."></iconify-icon> in/jonasmandel</span>
+  </a>
+  <a href="mailto:jonas.mandel@gmail.com" class="about-link" rel="" target="">
+     <span class="about-link-text"><iconify-icon role="img" inline="" icon="streamline-color:mail-send-email-message" aria-label="Icon mail-send-email-message from streamline-color Iconify.design set." title="Icon mail-send-email-message from streamline-color Iconify.design set."></iconify-icon> jonas.mandel@gmail.com</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents page-columns page-full"><main class="content page-columns page-full column-body" id="quarto-document-content">
+
+<div class="column-page">
+<!---# [Jonas [Mandel]{.lighter-title .char-warning} [![](./photo_marseille2.jpg)]{.content-visible when-format="html"}]{.profile-img}--->
+<!---
+::: {.d-flex .justify-content-between .flex-wrap}
+### Senior Bioinformatics Scientist
+ [jonas.mandel@gmail.com](mailto:jonas.mandel@gmail.com) |  [linkedin.com/in/jonasmandel](https://www.linkedin.com/in/jonasmandel/)
+:::
+--->
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true"><span class="char-color">Resume</span></a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false"><iconify-icon role="img" inline="" icon="streamline-color:news-paper" aria-label="Icon news-paper from streamline-color Iconify.design set." title="Icon news-paper from streamline-color Iconify.design set."></iconify-icon> <span class="char-color">Publications</span></a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<section id="about-me" class="level3">
+<h3 data-anchor-id="about-me"><iconify-icon role="img" inline="" icon="streamline-color:user-profile-focus" aria-label="Icon user-profile-focus from streamline-color Iconify.design set." title="Icon user-profile-focus from streamline-color Iconify.design set."></iconify-icon> <span class="char-color">About</span> me</h3>
+<p>Accomplished bioinformatics scientist with 14 years of experience in bioinformatics, omics data analysis, machine learning, and clinical biostatistics. Expert omics data analyst for RNAseq, scRNAseq, long-read sequencing, biomarker data analysis, GWAS. Expert R programmer with working knowledge of Python and proficiency in various bioinformatics &amp; biostatistics methods &amp; tools. Strong experience in scientific writing &amp; communication for a variety of audiences (researchers, clinicians, investors). Focus areas: immuno-oncology, cardiology, neurology, rare diseases.</p>
+</section>
+<section id="work-experience" class="level3">
+<h3 data-anchor-id="work-experience"><iconify-icon role="img" inline="" icon="streamline-color:workspace-desk" aria-label="Icon workspace-desk from streamline-color Iconify.design set." title="Icon workspace-desk from streamline-color Iconify.design set."></iconify-icon> <span class="char-color">Work</span> Experience</h3>
+<section id="senior-bioinformatics-scientist---mnemo-therapeutics" class="level4 d-flex justify-content-between flex-wrap">
+<h4 data-anchor-id="senior-bioinformatics-scientist---mnemo-therapeutics"><span class="char-color">Senior Bioinformatics Scientist</span> - Mnemo Therapeutics</h4>
+<p><em>2021 - 2025, Paris</em></p>
+</section>
+<ul>
+<li>Developed pipelines for detection of alternative splicing and cancer neoantigen prediction using RNAseq, scRNAseq, and long-read RNAseq (PacBio).</li>
+<li>Led integration of transcriptomics (&gt;20K RNAseq samples) and immunopeptidomics databases (&gt;1.5K samples) to generate target peptides libraries: &gt;1.2K putative targets, leading to 8 validated peptide targets.</li>
+<li>Designed statistical analysis of neoantigen recurrence and peptide prioritization, instrumental for target mining strategy for vaccine and CAR-T development.</li>
+<li>Implemented long-read RNAseq pipeline for alternative splicing discovery &amp; quantification based on IsoSeq3 &amp; SQANTI.</li>
+<li>Coordinated cross-team efforts as work package lead for immunopeptidomics target mining; prepared scientific deliverables and presentations.</li>
+<li>Participated in the design &amp; setup of the bioinformatics work environment from scratch: github, AWS, Trello, …</li>
+<li>Company-wide support to develop automated data analysis and reporting.</li>
+</ul>
+<section id="biomarker-biostatistician---sanofi-ividata" class="level4 d-flex justify-content-between flex-wrap">
+<h4 data-anchor-id="biomarker-biostatistician---sanofi-ividata"><span class="char-color">Biomarker Biostatistician</span> - Sanofi / Ividata</h4>
+<p><em>2018 - 2021, Paris</em></p>
+</section>
+<ul>
+<li>Led biomarker analyses in phase 2/3 trials (Sarilumab, Dupilumab, SAR440340) using RNAseq, SNP microarray, and proteomics (olink): SAP authoring &amp; implementation with R, oversight of CROs, preparation of deliverables.</li>
+<li>Biomarker biostatistician and machine learning advisor in several R&amp;D projects in oncology, cardiology, multiple sclerosis.</li>
+<li>Developed a shiny app for interactive reporting of omics biomarker data analysis.</li>
+<li>Participated in the development of R trainings “Introduction to R” and “Graphs in R” for Sanofi statisticians &amp; programmers.</li>
+</ul>
+<section id="clinical-biostatistician---sanofi-ividata" class="level4 d-flex justify-content-between flex-wrap">
+<h4 data-anchor-id="clinical-biostatistician---sanofi-ividata"><span class="char-color">Clinical Biostatistician</span> - Sanofi / Ividata</h4>
+<p><em>2016 - 2018, Paris</em></p>
+</section>
+<ul>
+<li>GMA Study biostatistician for phase 3b clinical trial (Alirocumab, hypercholesterolemia): authoring SAP and TLFs specs, coordination with CRO &amp; clinical team to prepare of deliverables (KRM, CSR), supervision &amp; QC of CRO’s activities.</li>
+<li>Led the biostatistics &amp; data analysis strategy for the Alirocumab publication program, overseeing data mining and post-hoc analyses of 14 pooled clinical trials to generate scientific insights and support publications in peer-reviewed journals.</li>
+</ul>
+<section id="biostatistician-computational-genomics-scientist---pharnext" class="level4 d-flex justify-content-between flex-wrap">
+<h4 data-anchor-id="biostatistician-computational-genomics-scientist---pharnext"><span class="char-color">Biostatistician &amp; Computational Genomics Scientist</span> - Pharnext</h4>
+<p><em>2012 - 2015, Paris</em></p>
+</section>
+<ul>
+<li>Led design &amp; implementation of a workflow for GWAS data imputation and analysis to discover disease-specific genomic alterations.</li>
+<li>Designed &amp; wrote SAP for Phase II/III clinical trials with adaptive designs, interim futility and power analysis, procedures for multiple endpoints. Meta-analysis of clinical trials.</li>
+<li>Conducted biomarker statistical analysis for in-house clinical trials, including reportings and presentations for internal and external stakeholders (scientific &amp; business).</li>
+</ul>
+<section id="biostatistics-bioinformatics-research-engineer---institut-curie-inserm-u900" class="level4 d-flex justify-content-between flex-wrap">
+<h4 data-anchor-id="biostatistics-bioinformatics-research-engineer---institut-curie-inserm-u900"><span class="char-color">Biostatistics &amp; Bioinformatics research engineer</span> - Institut Curie / INSERM U900</h4>
+<p><em>2009 - 2012, Paris</em></p>
+</section>
+<ul>
+<li>Performed omics statistical analyses (gene microarray, RNAseq, exome seq, SNP array) for various cancer research projects.</li>
+<li>Development automated workflows for omics data analysis.</li>
+<li>Participated to developing internal R programming training initiatives.</li>
+<li></li>
+</ul>
+</section>
+<section id="skills" class="level3">
+<h3 data-anchor-id="skills"><iconify-icon role="img" inline="" icon="streamline-color:target" aria-label="Icon target from streamline-color Iconify.design set." title="Icon target from streamline-color Iconify.design set."></iconify-icon> <span class="char-color">Skills</span></h3>
+<section id="biostatistics-data-science" class="level4">
+<h4 data-anchor-id="biostatistics-data-science"><span class="char-color">Biostatistics &amp; Data Science</span></h4>
+<ul>
+<li><strong>Statistical modelling &amp; inference:</strong> generalized linear model, mixed effects model, survival analysis, meta-analysis, PLS, principal component regression, interim analysis for clinical trials, conditional power analysis.</li>
+<li><strong>Multivariate statistics:</strong> PCA, PLS, t-SNE, UMAP, multiple correspondence analysis, factor analysis.</li>
+<li><strong>Machine learning:</strong> supervised classification &amp; regression (LDA, SVM, Lasso / Elastic Net, boosting, bagging, random forests, XGBoost, …), unsupervised clustering (hierarchical clustering, k-means, DBSCAN, gaussian mixture models, …).</li>
+</ul>
+</section>
+<section id="omics-bioinformatics" class="level4">
+<h4 data-anchor-id="omics-bioinformatics"><span class="char-color">Omics &amp; Bioinformatics</span></h4>
+<ul>
+<li><strong>Transcriptomics (RNAseq, scRNAseq):</strong> alignment, normalization, differential analysis, splicing detection &amp; quantification.</li>
+<li><strong>Long-read sequencing (PacBio):</strong> transcript identification, isoform quantification, differential analysis.</li>
+<li><strong>Genomics (WGS/WES):</strong> variant calling, CNV analysis, fusion gene detection.</li>
+<li><strong>SNP microarrays &amp; GWAS:</strong> imputation, association testing.</li>
+<li><strong>Pathway enrichment:</strong> GSA/GSEA.</li>
+</ul>
+</section>
+<section id="bioinformatics-tools-workflows" class="level4">
+<h4 data-anchor-id="bioinformatics-tools-workflows"><span class="char-color">Bioinformatics tools &amp; workflows</span></h4>
+<ul>
+<li><strong>Tools:</strong> STAR, Seurat, StringTie, Samtools, NetMHCpan, DeepTMHMM, PLINK, IsoSeq3, SQANTI, tappAS, BLAST.</li>
+<li><strong>Workflow development:</strong> Nextflow, Docker, Galaxy.</li>
+</ul>
+</section>
+<section id="programming-dataviz" class="level4">
+<h4 data-anchor-id="programming-dataviz"><span class="char-color">Programming &amp; DataViz</span></h4>
+<p>R (tidyverse, ggplot2, mlr3, tidymodels, RMarkdown, Shiny), Python (pandas, seaborn, scikit-learn, matplotlib)</p>
+</section>
+<section id="collaboration-project-management" class="level4">
+<h4 data-anchor-id="collaboration-project-management"><span class="char-color">Collaboration &amp; Project Management</span></h4>
+<p>Git/GitHub, Trello, Teams, agile coordination, cross-functional communication</p>
+</section>
+<section id="languages" class="level4">
+<h4 data-anchor-id="languages"><span class="char-color">Languages</span></h4>
+<p>English (fluent), French (native), Spanish (good)</p>
+</section>
+</section>
+<section id="education" class="level3">
+<h3 data-anchor-id="education"><iconify-icon role="img" inline="" icon="streamline-color:graduation-cap" aria-label="Icon graduation-cap from streamline-color Iconify.design set." title="Icon graduation-cap from streamline-color Iconify.design set."></iconify-icon> <span class="char-color">Education</span></h3>
+<section id="ms-in-bioinformatics-and-modelling" class="level4">
+<h4 data-anchor-id="ms-in-bioinformatics-and-modelling"><span class="char-color">MS in Bioinformatics and Modelling</span></h4>
+<p><em>INSA Lyon, 2003 - 2008</em></p>
+</section>
+<section id="research-internships" class="level4">
+<h4 data-anchor-id="research-internships"><span class="char-color">Research internships</span></h4>
+<ul>
+<li>Cellular automaton modeling of the dynamics of epidemics – <em>University of Amsterdam, 2008</em></li>
+<li>Mathematical modelling of the effect of antibiotic dose on pneumococcus resistance to antibiotics – <em>Institut Pasteur, 2007</em></li>
+</ul>
+</section>
+<section id="trainings" class="level4">
+<h4 data-anchor-id="trainings"><span class="char-color">Trainings</span></h4>
+<p>Time management (<em>Cegos, 2024</em>), Project management with Git &amp; GitHub (<em>ArData, 2022</em>), Docker (<em>Aneo, 2023</em>), Machine learning &amp; DataViz in Python (<em>DataScientest, 2020</em>).</p>
+</section>
+</section>
+<section id="interests" class="level3">
+<h3 data-anchor-id="interests"><iconify-icon role="img" inline="" icon="streamline-color:like-1" aria-label="Icon like-1 from streamline-color Iconify.design set." title="Icon like-1 from streamline-color Iconify.design set."></iconify-icon> <span class="char-color">Interests</span></h3>
+<ul>
+<li>Theater &amp; acting</li>
+<li>Hiking / running</li>
+<li>Sociology, philosophy</li>
+<li>Science fiction litterature</li>
+</ul>
+</section>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p style="font-size:0.7em;">
+</p><ul>
+<li><strong>Combinational Drug Repurposing from Genetic Networks Applied to Alzheimer’s Disease.</strong> Nabirotchkin S, Bouaziz J, Glibert F, <u>Mandel J</u>, Foucquier J, Hajj R, Callizot N, Cholet N, Guedj M, Cohen D. J Alzheimers Dis. 2022;88(4):1585-1603. <a href="https://doi.org/10.3233/JAD-220120">doi: 10.3233/JAD-220120</a>.</li>
+<li><strong>Triglyceride concentrations and non-high-density lipoprotein cholesterol goal attainment in the ODYSSEY phase 3 trials with alirocumab.</strong> Vallejo-Vaz AJ, Leiter LA, Del Prato S, Taskinen MR, Müller-Wieland D, Bujas-Bobanovic M, Letierce A, <u>Mandel J</u>, Samuel R, Ray KK. Eur J Prev Cardiol. 2020 Oct;27(15):1663-1674. <a href="https://doi.org/10.1177/2047487320905185">doi: 10.1177/2047487320905185</a>.</li>
+<li><strong>Alirocumab therapy in individuals with type 2 diabetes mellitus and atherosclerotic cardiovascular disease: analysis of the ODYSSEY DM-DYSLIPIDEMIA and DM-INSULIN studies.</strong> Ray KK, Del Prato S, Müller-Wieland D, Cariou B, Colhoun HM, Tinahones FJ, Domenger C, Letierce A, <u>Mandel J</u>, Samuel R, Bujas-Bobanovic M, Leiter LA. Cardiovasc Diabetol. 2019 Nov 9;18(1):149. <a href="https://doi.org/10.1186/s12933-019-0951-9">doi: 10.1186/s12933-019-0951-9.</a></li>
+<li><strong>Alirocumab safety in people with and without diabetes mellitus: pooled data from 14 ODYSSEY trials.</strong> Leiter LA, Tinahones FJ, Karalis DG, Bujas-Bobanovic M, Letierce A, <u>Mandel J</u>, Samuel R, Jones PH. Diabet Med. 2018;35:1742-1751. <a href="https://doi.org/10.1111/dme.13817">doi: 10.1111/dme.13817</a>.</li>
+<li><strong>Efficacy and Safety of Alirocumab Among Individuals with Diabetes Mellitus and Atherosclerotic Cardiovascular Disease in the Odyssey Phase 3 Trials.</strong> Ganda OP, Plutzky J, Sanganalmath SK, Bujas-Bobanovic M, Koren A, <u>Mandel J</u>, Letierce A, Leiter LA. Diabetes Obes Metab. 2018 Oct;20(10):2389-2398. <a href="https://doi.org/10.1111/dom.13384">doi: 10.1111/dom.13384.</a></li>
+<li><strong>Efficacy and Safety of Lipid Lowering by Alirocumab in Chronic Kidney Disease.</strong> Toth PP, Dwyer JP, Cannon CP, Colhoun HM, Rader DJ, Upadhyay A, Louie MJ, Koren A, Letierce A, <u>Mandel J</u>, Banach M. Kidney Int. 2018 Mar 8. pii: S0085-2538(18)30055-3. <a href="https://doi.org/10.1016/j.kint.2017.12.011">doi: 10.1016/j.kint.2017.12.011</a>.</li>
+<li><strong>Efficacy and Safety of Alirocumab in High-Risk Patients With Clinical Atherosclerotic Cardiovascular Disease and/or Heterozygous Familial Hypercholesterolemia (from 5 Placebo-Controlled ODYSSEY Trials).</strong> McCullough PA, Ballantyne CM, Sanganalmath SK, Langslet G, Baum SJ, Shah PK, Koren A, <u>Mandel J</u>, Davidson MH. Am J Cardiol. 2018 Apr 15;121(8):940-948. <a href="https://doi.org/10.1016/j.amjcard.2017.12.040">doi: 10.1016/j.amjcard.2017.12.040</a>.</li>
+<li><strong>No Evidence of Neurocognitive Adverse Events Associated with Alirocumab Treatment in 3340 Patients from 14 Randomized Phase 2 and 3 Controlled Trials: A Meta-Analysis of Individual Patient Data.</strong> Harvey PD, Sabbagh MN, Harrison JE, Ginsberg HN, Chapman MJ, Manvelian G, Moryusef A, <u>Mandel J</u>, Farnier M. Eur Heart J. 2018 Feb 1;39(5):374-381. <a href="https://doi.org/10.1093/eurheartj/ehx661">doi: 10.1093/eurheartj/ehx661</a>.</li>
+<li><strong>Efficacy and safety of alirocumab in insulin-treated individuals with type 1 or type 2 diabetes and high cardiovascular risk: The ODYSSEY DM-INSULIN randomized trial.</strong> Leiter LA, Cariou B, Müller-Wieland D, Colhoun HM, Del Prato S, Tinahones FJ, Ray KK, Bujas-Bobanovic M, Domenger C, <u>Mandel J</u>, Samuel R, Henry RR. Diabetes Obes Metab. 2017 Dec;19(12):1781-1792. <a href="https://doi.org/10.1111/dom.13114">doi: 10.1111/dom.13114</a>.</li>
+<li><strong>Whole-genome profiling helps to classify phyllodes tumours of the breast.</strong> Laé M, La Rosa P, <u>Mandel J</u>, Reyal F, Hupé P, Terrier P, Couturier J. J Clin Pathol. 2016 Dec; 69(12):1081-1087. <a href="https://doi.org/10.1136/jclinpath-2016-203684">doi: 10.1136/jclinpath-2016-203684</a>.</li>
+<li><strong>A Multi-Marker Genetic Association Test Based on the Rasch Model Applied to Alzheimer’s Disease.</strong> Wang W, <u>Mandel J</u>, Bouaziz J, Commenges D, Nabirotchkine S, Chumakov I, Cohen D, Guedj M; Alzheimer’s Disease Neuroimaging Initiative. PLoS One. 2015 Sep 17;10(9). <a href="https://doi.org/10.1371/journal.pone.0138223">doi: 10.1371/journal.pone.0138223</a>.</li>
+<li><strong>A meta-analysis of randomized double-blind clinical trials in CMT1A to assess the change from baseline in CMTNS and ONLS scales after one year of treatment.</strong> <u>Mandel J</u>, Bertrand V, Lehert P, Attarian S, Magy L, Micallef J, Chumakov I, Scart-Grès C, Guedj M, Cohen D. Orphanet J Rare Dis. 2015 Jun 13;10:74. <a href="https://doi.org/10.1186/s13023-015-0293-y">doi: 10.1186/s13023-015-0293-y</a>.</li>
+<li><strong>An exploratory randomised double-blind and placebo-controlled phase 2 study of a combination of baclofen, naltrexone and sorbitol (PXT3003) in patients with Charcot-Marie-Tooth disease type 1A.</strong> Attarian S, Vallat JM, Magy L, Funalot B, Gonnaud PM, Lacour A, Péréon Y, Dubourg O, Pouget J, Micallef J, Franques J, Lefebvre MN, Ghorab K, Al-Moussawi M, Tiffreau V, Preudhomme M, Magot A, Leclair-Visonneau L, Stojkovic T, Bossi L, Lehert P, Gilbert W, Bertrand V, <u>Mandel J</u>, Milet A, Hajj R, Boudiaf L, Scart-Grès C, Nabirotchkin S, Guedj M, Chumakov I, Cohen D. Orphanet J Rare Dis. 2014, Dec 18;9(1):199. <a href="https://doi.org/10.1186/s13023-014-0199-0">doi: 10.1186/s13023-014-0199-0</a>.</li>
+<li><strong>Polytherapy with a combination of three repurposed drugs (PXT3003) down-regulates Pmp22 over-expression and improves myelination, axonal and functional parameters in models of CMT1A neuropathy.</strong> Attarian S, Vallat JM, Magy L, Funalot B, Gonnaud PM, Lacour A, Péréon Y, Dubourg O, Pouget J, Micallef J, Franques J, Lefebvre MN, Ghorab K, Al-Moussawi M, Tiffreau V, Preudhomme M, Magot A, Leclair-Visonneau L, Stojkovic T, Bossi L, Lehert P, Gilbert W, Bertrand V, <u>Mandel J</u>, Milet A, Hajj R, Boudiaf L, Scart-Grès C, Nabirotchkin S, Guedj M, Chumakov I, Cohen D. Orphanet J Rare Dis 2014, Dec 18;9(1):199. <a href="https://doi.org/10.1186/s13023-014-0201-x">doi: 10.1186/s13023-014-0201-x</a>.</li>
+<li><strong>Antibiotic dose impact on resistance selection in the community: a mathematical model of beta-lactams and Streptococcus pneumoniae dynamics.</strong> Opatowski L, <u>Mandel J</u>, Varon E, Boëlle PY, Temime L, Guillemot D. Antimicrob Agents Chemother 2010, Jun; 54(6):2330-7. <a href="https://doi.org/10.1128/aac.00331-09">doi: 10.1128/aac.00331-09</a>.</li>
+</ul>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+
+
+</main></div>
+</div>
+ <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/man-jo\.github\.io");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./index.pdf">
+<p><b>Download PDF</b></p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="mailto:jonas.mandel@gmail.com">
+<p>jonas.mandel@gmail.com</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://toknow.ai/posts/quarto-resume-template/">
+<p><i>Create your resume</i></p>
+</a>
+  </li>  
+</ul>
     </div>
-</body>
-</html>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
